@@ -1,4 +1,4 @@
-# RunTipi Apps (Experimental)
+# RunTipi Custom Apps Store (Experimental)
 
 This repository contains an **experimental RunTipi app store**.
 
