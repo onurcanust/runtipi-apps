@@ -25,9 +25,9 @@ If you are looking for a strictly stable or production-grade app store, this rep
 
 | Logo | App | Description |
 |------|-----|-------------|
-| <img src="apps/trailarr/metadata/icon.png" width="48"> | **Trailarr** | Download and manage local trailers for Radarr and Sonarr libraries |
-| <img src="apps/openspeedtest/metadata/icon.png" width="48"> | **OpenSpeedTest** | Self-hosted HTML5 internet speed test server |
-| <img src="apps/wud/metadata/icon.png" width="48"> | **WUD (What's Up Docker)** | Monitor Docker containers and detect new Docker image versions |
+| <img src="apps/trailarr/metadata/icon.png" width="48"> | **[Trailarr](https://github.com/nandyalu/trailarr/tree/main)** | Download and manage local trailers for Radarr and Sonarr libraries |
+| <img src="apps/openspeedtest/metadata/icon.png" width="48"> | **[OpenSpeedTest](https://github.com/openspeedtest/Speed-Test)** | Self-hosted HTML5 internet speed test server |
+| <img src="apps/wud/metadata/icon.png" width="48"> | **[WUD (What's Up Docker)](https://github.com/getwud/wud)** | Monitor Docker containers and detect new Docker image versions |
 
 More applications may be added as my homelab setup grows or changes.
 
