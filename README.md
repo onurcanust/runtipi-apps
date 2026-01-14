@@ -1,6 +1,6 @@
-# RunTipi Custom Apps Store (Experimental)
+# RunTipi Apps Store (Experimental)
 
-This repository contains an **experimental RunTipi app store**.
+This repository contains an **experimental **[RunTipi](https://github.com/runtipi/runtipi)** app store**.
 
 It is mainly used as a personal playground to explore RunTipi, Docker-based apps, and homelab tooling, while also making the setup reusable for others who might find it useful.
 
