@@ -1,0 +1,17 @@
+{
+  "name": "OpenSpeedTest",
+  "id": "openspeedtest",
+  "available": true,
+  "short_desc": "Self-hosted internet speed test server.",
+  "author": "OpenSpeedTest",
+  "port": 3000,
+  "categories": ["utilities", "network"],
+  "description": "OpenSpeedTest is a self-hosted HTML5 speed test server.",
+  "tipi_version": 1,
+  "version": "latest",
+  "source": "https://github.com/openspeedtest/Speed-Test",
+  "website": "https://openspeedtest.com",
+  "exposable": true,
+  "supported_architectures": ["arm64", "amd64"],
+  "dynamic_config": false
+}
