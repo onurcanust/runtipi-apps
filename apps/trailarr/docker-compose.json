@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "services": [
+    {
+      "name": "trailarr",
+      "image": "nandyalu/trailarr:0.6.8",
+      "isMain": true,
+      "internalPort": 7889,
+      "environment": [
+        { "key": "TZ", "value": "${TZ}" }
+      ],
+      "volumes": [
+        {
+          "hostPath": "${APP_DATA_DIR}/data/trailarr",
+          "containerPath": "/config",
+          "readOnly": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Trailarr",
+  "id": "trailarr",
+  "available": true,
+  "short_desc": "Download and manage trailers for Radarr/Sonarr libraries.",
+  "author": "nandyalu",
+  "port": 7889,
+  "categories": ["media", "utilities"],
+  "description": "Trailarr downloads and organizes local trailers for Radarr and Sonarr libraries.",
+  "tipi_version": 1,
+  "version": "0.6.8",
+  "source": "https://github.com/nandyalu/trailarr",
+  "website": "https://nandyalu.github.io/trailarr",
+  "exposable": true,
+  "supported_architectures": ["arm64", "amd64"],
+  "dynamic_config": true
+}
