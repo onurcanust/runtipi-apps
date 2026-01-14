@@ -1,0 +1,17 @@
+{
+  "name": "WUD (What's Up Docker)",
+  "id": "wud",
+  "available": true,
+  "short_desc": "Monitor Docker containers for image updates.",
+  "author": "getwud",
+  "port": 3001,
+  "categories": ["utilities", "system"],
+  "description": "WUD monitors Docker containers and notifies you when new image versions are available.",
+  "tipi_version": 1,
+  "version": "latest",
+  "source": "https://github.com/getwud/wud",
+  "website": "https://getwud.github.io/wud",
+  "exposable": true,
+  "supported_architectures": ["arm64", "amd64"],
+  "dynamic_config": false
+}
