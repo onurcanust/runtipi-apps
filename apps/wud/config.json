@@ -1,5 +1,5 @@
 {
-  "name": "WUD (What's Up Docker)",
+  "name": "WUD",
   "id": "wud",
   "available": true,
   "short_desc": "Monitor Docker containers for image updates.",
