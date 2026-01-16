@@ -5,7 +5,7 @@
   "short_desc": "Monitor Docker containers for image updates.",
   "author": "getwud",
   "port": 3001,
-  "categories": ["utilities", "system"],
+  "categories": ["utilities", "tools"],
   "description": "WUD monitors Docker containers and notifies you when new image versions are available.",
   "tipi_version": 1,
   "version": "latest",
